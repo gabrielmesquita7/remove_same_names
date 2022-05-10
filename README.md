@@ -42,6 +42,7 @@ O problema foi desenvolvido da seguinte maneira:
 * Como executar:
 
 ```
+  make clean
   make
   make run
 ```
